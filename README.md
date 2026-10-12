@@ -7,10 +7,12 @@ CareerBridge Pro is an AI-powered job matching platform designed to connect job 
 The platform aims to help job seekers identify their strengths, plan their careers, monitor progress, and find relevant job opportunities. It also supports employers in finding suitable candidates.
 
 ## Figma UI/UX Design
-The project includes mobile and desktop interface designs.
 
-- **Mobile Design:** [View Mobile Design](PASTE_MOBILE_FIGMA_LINK_HERE)
-- **Desktop Design:** [View Desktop Design](PASTE_DESKTOP_FIGMA_LINK_HERE)
+CareerBridge Pro includes desktop and mobile UI/UX designs created using Figma.
+
+- **Desktop Design:** [View Desktop Design](https://www.figma.com/design/5Oia6nAzKK2OKqikZTtwqm/CareerBridgePro-DesktopV.?node-id=0-1&t=QCxd2lJ1EUyr0IYg-1)
+- **Mobile Design:** [View Mobile Design](https://www.figma.com/design/V7jTjdxSMCQI3QHiCxjHlV/CareerBridge-Pro-Mobile_Version?node-id=0-1&t=u2x320jVL5Vdn6Ww-1)
+
 
 ## Project Report
 The complete System Analysis and Design report is available below.
